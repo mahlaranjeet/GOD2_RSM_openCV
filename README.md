@@ -1,0 +1,34 @@
+# MORPHOLOGICAL OPERATIONS
+## Goals of data analysis: ANALYSIS OF IMAGE WITH OPEN CV
+
+
+``` 
+MORPHOLOGICAL OPERATIONS: 
+PERFORMED ON BINARY IMAGES
+BINARY IMAGES HAVE LOT OF IMPERFECTIONS 
+OPEN CV OPERATIONS CAN HANDLE IMPERFECTIONS AND NOISES
+MORPHOLOGICAL OPERATIONS GENERATE IMAGE OF SAME SHAPE AS ORIGINAL IMAGE
+MORPHOLOGICAL OPERATIONS APPLY A STRUCTURAL ELEMENT TO INPUT IMAGE
+THE STRUCTURAL ELEMENT CAN BE OF ANY SHAPE
+``` 
+
+
+
+
+#### Step 1: Load libraries and image
+#### Step 2: create kernels
+#### Step 3: do erosions 
+#### Step 4: do dialiations
+#### Step 5: do opening 
+#### Step 6: do cloning
+#### Step 7: tophat whitehat
+#### Step 8: tophat blackhat
+
+
+
+
+### Contributors
+- RANJEET SINGH MAHLA
+
+
+Licence: It is open source. 
